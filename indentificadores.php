@@ -32,6 +32,7 @@ $idade = 43;
 //float (decimal)
 $altura = 1.87;
 
+
 //nulo
 $nada = null;
 
